@@ -1,0 +1,36 @@
+.App {
+  box-sizing: content-box;
+  margin: 0;
+  font-family: 'Comforter Brush', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+  /* padding: 5px; */
+}
+h1,h2{
+  padding-left:5px;
+  font-weight: 500;
+}
+
+.left-side{
+  display:inline-block;
+  width:50%;
+  flex: 1;
+  margin-right: 1px solid black;
+  border-top:1px solid black
+
+}
+.right-side{
+  display:inline-block;
+  width:50%;
+  margin-top: 0;
+  flex: 1;
+  margin-left:0px;
+  border-left:1px solid black;
+  border-top:1px solid black;
+
+} 
+.body{
+  display:flex;
+}
