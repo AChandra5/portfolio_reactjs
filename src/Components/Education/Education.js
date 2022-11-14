@@ -15,7 +15,7 @@ function Education() {
           <h2>Education-2</h2>
           
           <li>
-            intermediate: 2011-13
+            Intermediate: 2011-13
             <p className="institute-name">
               Sri Narayana junior college, Khammam
             </p>

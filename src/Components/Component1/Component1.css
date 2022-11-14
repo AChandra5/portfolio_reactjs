@@ -1,6 +1,12 @@
+
 .top{
     background: #eee;
     text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.name{
+    font-size: 4em;
 }
 .name,.email{
     font-weight: 450;
@@ -9,5 +15,6 @@
 }
 .email, .phone{
     margin-top: 0;
+    margin-bottom: 0px;
 }
 
