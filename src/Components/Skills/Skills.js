@@ -4,11 +4,14 @@ function Skills(){
         <div>
             <div><h1>Skills</h1></div>
             <ul>
-                <li>Skill-1</li>
-                <li>Skill-2</li>
-                <li>Skill-3</li>
+                <li>Strong leadership</li>
+                <li>Team member</li>
+                <li>Self motivated</li>
+                <li>Time management</li>
             </ul>
+            
         </div>
+        
     )
 }
 export default Skills

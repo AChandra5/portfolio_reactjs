@@ -6,13 +6,13 @@ function Education() {
       <div>
         
         <ul>
-        <h2>Education-1</h2>
+        <h2>S.S.C</h2>
           <li>
             SSC: 2010-11
             <p className="institute-name">Nirmal Hridai High School, Khammam</p>
             Percentage:91%
           </li>
-          <h2>Education-2</h2>
+          <h2>College</h2>
           
           <li>
             Intermediate: 2011-13
@@ -21,7 +21,7 @@ function Education() {
             </p>
             Percentage:85.4%
           </li>
-          <h2>Education-3</h2>
+          <h2>Graduation</h2>
           <li>
             B.tech: 2013-17
             <p className="institute-name">
